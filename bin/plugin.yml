@@ -1,0 +1,5 @@
+name: NoBrackets
+author: flymia
+version: 1.0.3
+
+main: com.flymia.NoBrackets.base.NoBrackets
